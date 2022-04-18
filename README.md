@@ -2,6 +2,7 @@
 Created a shiny application that investigated word counts throughout Shakespeare Plays <br> <br>
 To view the live app go to the [link](https://dsba5122-spring-2022-lr.shinyapps.io/lraslova_problem_set_3/?fbclid=IwAR0sNYvB_HOdBNxAfvgZ48d70F4XNk9bhqphJoESzL5K4dbEqGHTKcKTf9k).
 <br>
+<br>
 **Tool:** <br>
 R Shiny <br>
 **How to re-create the application:** <br>
