@@ -5,8 +5,7 @@ To view the live app go to the [link](https://dsba5122-spring-2022-lr.shinyapps.
 **How to re-create the application:** <br>
 If you wish to run the app from R Studio instead of going to the above link, you can use the following steps:
 1. Download all items in the folder.
-2. Open.....<br>
-**Data Source: <br>**
-K. <br>
+2. Open R Project with the app.
+3. Run it.<br>
 **Tool:** <br>
 R Shiny <br>
